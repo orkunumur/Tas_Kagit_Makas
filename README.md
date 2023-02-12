@@ -1,1 +1,2 @@
-# Tas_Kagit_Makas
+# Taş Kağıt Makas Oyunu 
+
